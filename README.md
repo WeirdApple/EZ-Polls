@@ -1,2 +1,2 @@
-# EZ-Polls1
+# EZ-Polls
 Easy-to-operate poll discord bot.
